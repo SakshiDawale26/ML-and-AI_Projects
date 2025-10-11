@@ -1,6 +1,6 @@
 A Repo of 21 deployable AI projects completed in 21 days as part of my self-challenge, showcasing skills in ML, DL, and GenAI. Covers EDA, feature engineering, predictive modeling, CNNs, transfer learning, OCR automation, text-to-SQL, RAG chatbots, and AI agent workflows.
 
-🚀** 21 Days, 21 Machine Learning Projects Challenge**
+🚀**21 Days, 21 Machine Learning Projects Challenge**
 A hands-on journey through Machine Learning, Deep Learning, and Generative AI — 21 projects in 21 days, designed to build real-world AI skills, deployment experience, and confidence in practical problem-solving.
 
 💡 Challenge Overview
